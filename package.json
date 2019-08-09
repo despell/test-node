@@ -5,9 +5,9 @@
   "engines": {
     "node": "10.x"
   },
-  "main": "index.html",
+  "main": "./js/demo.js",
   "scripts": {
-    "start": "node index.html"
+    "start": "node ./js/demo.js"
   },
   "dependencies": {},
   "devDependencies": {},
